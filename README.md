@@ -3,6 +3,9 @@
 This repository implements a modular, training-free 6D pose estimation pipeline. The system takes a 3D CAD model and an RGB-D scene image as input and estimates the 6D pose (rotation + translation) of the object in the scene using foundation models for geometry and vision.
 
 ---
+### Google Colab Link
+https://colab.research.google.com/drive/1Hk9ukODfuD4KrVSMEoGCGcJG6S1zISzL?usp=sharing#scrollTo=w0zFOYdAt62W
+---
 
 ## 📚 Pipeline Overview
 
