@@ -1,0 +1,6 @@
+File contains
+1 mustard CAD Model
+2 rgb scene
+2 corresponding depth image
+2 binary mask of mustard in each scene
+files from query pipeline
