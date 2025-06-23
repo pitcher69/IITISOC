@@ -4,3 +4,4 @@ File contains
 2 corresponding depth image
 2 binary mask of mustard in each scene
 files from query pipeline
+scene info json files
